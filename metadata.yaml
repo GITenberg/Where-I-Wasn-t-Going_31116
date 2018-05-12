@@ -1,0 +1,45 @@
+_repo: Where-I-Wasn-t-Going_31116
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: archival
+  image_path: 31116-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Richmond, Walt
+    alias: Richmond, Walter F.
+    birthdate: 1922
+    deathdate: 1977
+    gutenberg_agent_id: '34184'
+    url: http://www.gutenberg.org/2009/agents/34184
+  - agent_name: Richmond, Leigh
+    alias: Richmond, Leigh Tucker
+    birthdate: 1911
+    deathdate: 1995
+    gutenberg_agent_id: '34183'
+    url: http://www.gutenberg.org/2009/agents/34183
+description: ''
+gutenberg_issued: '2010-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space stations -- Fiction'
+- !lcc 'PS'
+title: Where I Wasn't Going
+url: http://www.gutenberg.org/ebooks/31116
